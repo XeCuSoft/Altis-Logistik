@@ -34,3 +34,6 @@ Aufbau lizenzen.txt<br>
 ID:Kategorie:Name:Preis:0:0
 <br><br>
 Diese Anwendung diente als Lernprogramm in Visual Basic und wurde für e-Monkeys.com erstellt.<br>
+<b>Benötigt wird :</b><br>
+- Microsoft Visual Studio
+- Net Framework 4.0
