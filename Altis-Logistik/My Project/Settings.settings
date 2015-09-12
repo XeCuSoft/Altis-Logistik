@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="boersetimer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">15</Value>
+    </Setting>
+    <Setting Name="boersetimerauto" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="autoupdate" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="fzglist" Type="System.String" Scope="User">
+      <Value Profile="(Default)">config/fahrzeuge.txt</Value>
+    </Setting>
+    <Setting Name="rohstofflist" Type="System.String" Scope="User">
+      <Value Profile="(Default)">config/rohstoffe.txt</Value>
+    </Setting>
+    <Setting Name="lizenzlist" Type="System.String" Scope="User">
+      <Value Profile="(Default)">config/lizenzen.txt</Value>
+    </Setting>
+    <Setting Name="fzglistonline" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="rohstofflistonline" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="lizenzlistonline" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
