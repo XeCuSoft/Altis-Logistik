@@ -1,4 +1,4 @@
-Version 1.2.2.0 | 12.09.2015
+﻿Version 1.2.2.0 | 12.09.2015
 - Fehler im Updater behoben
 - Fahrzeug, Rohstoff und Lizenz Liste aktuallisiert
 (Einige Werte fehlen noch)
