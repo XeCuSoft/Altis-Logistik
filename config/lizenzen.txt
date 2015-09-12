@@ -1,0 +1,22 @@
+﻿1:allgemein:Führerschein:5.000:0:0
+2:allgemein:Bootschein:7.500:0:0
+3:allgemein:Pilotenschein:35.000:0:0
+4:allgemein:LKW Führerschein:0:0:0
+5:allgemein:Logistiklizenz:100.000:0:0
+6:allgemein:Bausparvertrag:250.000:0:0
+7:allgemein:Jetpilotenschein:20.000.000:0:0
+8:verarbeitung:Diamanten:275.000:0:0
+9:verarbeitung:Salz:17.500:0:0
+10:verarbeitung:Sand:60.000:0:0
+11:verarbeitung:Kupfer:0:0:0
+12:verarbeitung:Eisen:0:0:0
+13:verarbeitung:Silber:200.000:0:0
+14:verarbeitung:Öl:175.000:0:0
+15:verarbeitung:Zement:70.000:0:0
+16:verarbeitung:Marijuana:200.000:0:0
+17:verarbeitung:Kokain:0:0:0
+18:verarbeitung:Heroin:0:0:0
+19:verarbeitung:Absinth:0:0:0
+20:verarbeitung:Schildkröten:0:0:0
+21:verarbeitung:Bier:0:0:0
+22:verarbeitung:Whiskey:0:0:0

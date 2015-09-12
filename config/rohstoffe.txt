@@ -1,0 +1,29 @@
+﻿1:legal:Eisenerz:Eisenbarren:5:3
+2:legal:Silbererz:Silberbarren:5:3
+3:legal:Kupfererz:Kupferbarren:5:3
+4:legal:Sand:Glas:3:2
+5:legal:Roggen + Hefe:Whiskey:4:0
+6:legal:-:Diamanten:5:2
+7:legal:Stein:Zement:6:5
+8:legal:-:Öl:7:6
+9:legal:-:Salz:3:2
+10:legal:Hopfen + Hefe:Bier:4:0
+11:illegal:Kokablatt:Kokain:6:4
+12:illegal:Mohn:Heroin:6:4
+13:illegal:Cannabis:Marijuana:6:4
+14:illegal:Absinth:Dest.Absinth:5:4
+15:legal:Baum:Edelholz:0:0
+16:legal:Edelholz:Bretter:0:0
+17:legal:Baumwolle:Faser:0:0
+18:legal:Faser:Stoff:0:0
+19:legal:-:Altis Flush:8:0
+20:legal:-:Aspirin:0:0
+21:illegal:-:Viagra:0:0
+22:legal:Glasflasche + Whiskey:Flasche Whiskey:4:0
+23:legal:-:Salema:2:0
+24:legal:-:Ornate:2:0
+25:legal:-:Mackerel:4:0
+26:legal:-:Thunfisch:6:0
+27:legal:-:Mullet:4:0
+28:legal:-:Katzenhai:6:0
+29:illegal:-:Schildkröten:6:0

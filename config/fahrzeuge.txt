@@ -1,0 +1,22 @@
+﻿1:pkw:Quadbike:30:54.000:0
+2:pkw:Hatchback:50:9.000:0
+3:pkw:SUV:65:48.000:0
+4:pkw:Offroad:85:27.000:0
+5:pkw:Truck:120:120.000:0
+6:pkw:Fuel Truck:400:150.000:0
+7:lkw:Truck Boxer:200:150.000:0
+8:lkw:Zamak Transporter:300:270.000:0
+9:lkw:Zamak Transporter Covered:375:360.000:0
+10:lkw:Tempest Transporter:400:780.000:0
+11:lkw:Tempest Transporter Covered:500:960.000:0
+12:lkw:HEMTT Transporter:550:1.500.000:0
+13:lkw:HEMMT Transporter Covered:650:1.800.000:0
+14:lkw:HEMMT Box:1000:5.100.000:0
+15:lkw:Tempest (Device):350:12.000.000:0
+16:tanker:Zamak Fuel:650:450.000:0
+17:tanker:Tempest Fuel:1000:1.020.000:0
+18:tanker:HEMTT Fuel:1500:4.200.000:0
+19:heli:Hummingbird:25:759.000:0
+20:heli:Orca:90:2.250.000:0
+21:heli:Mohawk:200:10.000.000:0
+22:heli:Huron:450:15.000.000:0
