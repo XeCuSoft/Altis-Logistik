@@ -9,12 +9,12 @@ zu berechnen.<br><br>
 (Werden bei der berechnung des Erlös berücksichtig)
 - Informationen und Übersicht über Fahrzeuge, Lizenzen und Rohstoffe
 - Fahrzeug, Lizenz und Rohstoff Editor</br>(hinzufügen,bearbeiten und löschen von Einträgen)
+- Fahrzeuge, Lizenzen und Rohstoffe online/offline auslesen
 <br><br>
 <b>Geplante Funktionen :</b>
 - Effizienz einer Tour berechnen
 - Squad Manager<br>
 (Zum anlegen einer Übersicht der Teammitglieder)
-- Fahrzeuge, Lizenzen und Rohstoffe online/offline auslesen
 <br><br>
 <b>Einträge hinzufügen,bearbeiten oder löschen :</b><br>
 Alle Informationen über Fahrzeuge, Lizenzen und Rohstoffe werden im config Verzeichnis gespeichert
@@ -36,4 +36,4 @@ ID:Kategorie:Name:Preis:0:0
 Diese Anwendung diente als Lernprogramm in Visual Basic und wurde für e-Monkeys.com erstellt.<br>
 <b>Benötigt wird :</b><br>
 - Microsoft Visual Studio
-- Net Framework 4.0
+- Net Framework 3.5
