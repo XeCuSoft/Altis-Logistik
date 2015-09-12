@@ -1,34 +1,34 @@
-ï»¿Version 1.2.2.0 | 12.09.2015
+Version 1.2.2.0 | 12.09.2015
 - Fehler im Updater behoben
 - Fahrzeug, Rohstoff und Lizenz Liste aktuallisiert
 (Einige Werte fehlen noch)
-- Listen werden über Github bezogen
+- Listen werden Ã¼ber Github bezogen
 - Onlineliste kann unter Einstellungen deaktiviert werden um manuell eigene anzulegen
-- Der Pfad zu denn Listen kann geändert werden
-- Listen werden über Github runtergeladen wenn sie fehlen 
+- Der Pfad zu denn Listen kann geÃ¤ndert werden
+- Listen werden Ã¼ber Github runtergeladen wenn sie fehlen 
 
 Version 1.2.1.0 | 11.09.2015
 - Problem beim auslesen der Warenpreise behoben
-- Börse in Warenpreise umbenannt
-- Rucksack für die Berechnung hinzugefügt
-- Fehler im Rohstoff-Editor behoben (Werte wurden nicht vollständig gespeichert)
+- BÃ¶rse in Warenpreise umbenannt
+- Rucksack fÃ¼r die Berechnung hinzugefÃ¼gt
+- Fehler im Rohstoff-Editor behoben (Werte wurden nicht vollstÃ¤ndig gespeichert)
 - Automatisch nach Programmupdates konnte nicht deaktiviert werden
 - Updates werden nicht mehr automatisch runtergeladen (Weiterleitung auf Github.com)
-- Neue Rohstoffe von e-Monkey.com hinzugefügt (aktuell fehlt noch das Gewicht)
+- Neue Rohstoffe von e-Monkey.com hinzugefÃ¼gt (aktuell fehlt noch das Gewicht)
 - Neue Support/Bugreport Seite
-- Anwendung wird jetzt über Github.com angeboten (SourceCode folgt) 
+- Anwendung wird jetzt Ã¼ber Github.com angeboten (SourceCode folgt) 
 
 Version 1.2.0.0 | 09.02.2015
-- Automatisches Programmupdate hinzugefügt
-- Laden der Börsenpreise automatisch (Zeitinterval) oder manuell
-- Einstellungen zun ändern des Zeitinterval und Programmupdate
-- Editor zum hinzufügen, bearbeiten und löschen von Einträgen 
+- Automatisches Programmupdate hinzugefÃ¼gt
+- Laden der BÃ¶rsenpreise automatisch (Zeitinterval) oder manuell
+- Einstellungen zun Ã¤ndern des Zeitinterval und Programmupdate
+- Editor zum hinzufÃ¼gen, bearbeiten und lÃ¶schen von EintrÃ¤gen 
 
 Version 1.1.0.0 | 08.02.2015
-- Lizenzen - Übersicht und Preise
-- Rohstoff-Infos - Gewichte und weitere Rohstoffe hinzugefügt. 
+- Lizenzen - Ãœbersicht und Preise
+- Rohstoff-Infos - Gewichte und weitere Rohstoffe hinzugefÃ¼gt. 
 
 Version 1.0.0.0 | 08.02.2015
-- Börse - Berechne denn Erlös deiner Tour 
-- Fahrzeugliste - Informationen über die verfügbaren Fahrzeuge
-- Rohstoff-Infos - Informationen über die verfügbaren Rohstoffe 
+- BÃ¶rse - Berechne denn ErlÃ¶s deiner Tour 
+- Fahrzeugliste - Informationen Ã¼ber die verfÃ¼gbaren Fahrzeuge
+- Rohstoff-Infos - Informationen Ã¼ber die verfÃ¼gbaren Rohstoffe 
